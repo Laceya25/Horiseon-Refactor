@@ -21,4 +21,4 @@ SO THAT our own site is optimized for search engines
 * It's done when WHEN I view the title element
 * THEN I find a concise, descriptive title 
 
-![](/Horiseon-Refactor/Horiseon-Refactor/images/website.png)
+![](/images/website.png)
