@@ -20,3 +20,5 @@ SO THAT our own site is optimized for search engines
 * THEN they fall in sequential order
 * It's done when WHEN I view the title element
 * THEN I find a concise, descriptive title 
+
+![](/Users/laceyangarita/Desktop/Horiseon-Refactor/Horiseon-Refactor/images/website.png)
